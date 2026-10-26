@@ -24,13 +24,13 @@ The request came as an email asking for a dashboard of key performance metrics, 
 ## From Raw Data to Dashboard
 
 ### Power BI Dashboard: 2022
-![Dashboard 2022](dashboard-2022.png)
+![Dashboard 2022](bike_share_sql_power_bi_project/dashboard-2022.png)
 
 ### Power BI Dashboard: 2021
-![Dashboard 2021](dashboard-2021.png)
+![Dashboard 2021](bike_share_sql_power_bi_project/dashboard-2021.png)
 
 ### Recommendation Page
-![Recommendation page](recommendation.png)
+![Recommendation page](bike_share_sql_power_bi_project/recommendation.png)
 
 ---
 
